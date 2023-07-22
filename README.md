@@ -1,4 +1,4 @@
-# java_apps
+# java_app
 Repository mock application java
 1. Mock JWT Token
-2. Mock Connection Mongo DB
+2. Mock connecting MongoDB
